@@ -1,0 +1,7 @@
+AUICodeSnippetsExtensionKit
+============
+AUICodeSnippetsExtensionKit is a collection of useful user-defined code snippets that can be added to xcode's Code Snippets Library
+
+### Adding AUICodeSnippetsExtensionKit
+
+Simply copy all the files to ~/Library/Developer/Xcode/UserData/CodeSnippets/
